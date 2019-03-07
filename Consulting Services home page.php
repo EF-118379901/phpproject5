@@ -1,6 +1,8 @@
 <?php?>
 
 
+
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -17,8 +19,19 @@
         </div>
       </div>
     </nav>
-        <style>
+    <center>
+    <img src="BASCS Logo.jpg" alt="BASCS" width="500px" height="300px">
+    </center>
+    
 
+        <style>
+            
+   html
+            {
+ background-color: ;
+ }
+   body
+   
  
 .button2 {
   background-color: orange; 
@@ -27,18 +40,14 @@
   
   
  
-  
-  html {
-      background: url(Flare.png) no repeat center fixed;
-      background-size: cover;
-  }
 
-  
+
+  background:lightblue
   
   </style>
     </head>
  
-    <body>
+    <body bgcolor="#00ffff">
           <?php
       
         ?>
@@ -54,6 +63,7 @@
             
             
             <ul>
-                <li>We are a Cork based firm specialised in Strategic Consulting</li>
-                <li>We function as bridges for information and knowledge more at far lest cost than our competitors</li> 
-                <li></li>
+                <li><h3>We are a Cork based firm specialised in Strategic Consulting</h3></li>
+                <li><h3>We function as bridges for information and knowledge more at far lest cost than our competitors</h3></li> 
+                <li><h3>We offer creative solutions that have helped thousands of companies develop and execute winning strategies that create more value in their business.</h3></li>
+            </ul>

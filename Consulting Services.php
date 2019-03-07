@@ -16,28 +16,29 @@
         </div>
       </div>
     </nav>
-        <style>
 
  
+        
+    }
+
+
+        <style>
+
+    html {
+        background: url(flare.png) no-repeat center fixed;
+        background-size: cover;
+        
+        
+    }
+    
+   body
+   
 .button2 {
   background-color: orange; 
   color: black; 
   border: 2px solid #008CBA;
  
-  
-}
-     body {
-         background-color: orange;
-  background-image: url("https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/13/104584754-GettyImages-676338290.530x298.jpg?v=1499963131");
-  background-repeat: no-repeat;
-  background-position: right top;
-} 
- body {
-  background-image: url("");
-   background-repeat: no-repeat;
-  background-position: left bottom;
-  }
-  
+
   
   </style>
     </head>

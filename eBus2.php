@@ -19,6 +19,10 @@ $_SESSION{'txtTotal'} = $totalValue2;
 <!DOCTYPE html>
 <html>
     <head>
+          <center>
+  <h1 style="border:2px solid dodgerblue;"<h1
+      style="color:lightblue;"> Ballinveltig Area Strategic Consulting Services</h1>
+  </center>
         <title>eBusiness 2</title>
           <style>
             body {background-color: lightblue;}
@@ -54,7 +58,7 @@ $_SESSION{'txtTotal'} = $totalValue2;
                     </table>
                         </center>
                         
-<center>
+<center>              
 
                     <input type="submit" name="btnContinue" id="btnContinue" onclick="" value="Continue"/>
 </center>

@@ -71,6 +71,11 @@ and open the template in the editor.
             
             </li>
           
+            <li class="nav-item">
+                <a class="nav-link rounded js-scroll-trigger" href="https://dashboard.heroku.com/apps/ef-phpproject5/deploy/github">Heroku</a>
+            
+            </li>
+            
           </ul>
         </div>
       </div>
