@@ -76,6 +76,12 @@ and open the template in the editor.
             
             </li>
             
+    
+             
+            <li class="nav-item">
+                <a class="nav-link rounded js-scroll-trigger" href="https://github.com/EF-118379901/phpproject5">Github</a>
+            
+            </li>
           </ul>
         </div>
       </div>
